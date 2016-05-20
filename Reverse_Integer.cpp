@@ -14,7 +14,7 @@ class Solution {
         int reverse2(int x) {
             int r = 0;
             while(x){
-                if(r > INT_MAX / 10 || r > INT_MIN / 10){
+                if(r > INT_MAX / 10 || r < INT_MIN / 10){
                     r = 0;
                     break;
                 }
