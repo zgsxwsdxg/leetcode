@@ -6,6 +6,8 @@
       ListNode(int x) : val(x), next(NULL) {}
   };
  **/
+// 版本1 ，开辟新空间
+// 注意事项：需要判断最后家和是否大于10，如果大于，则需要再次new Node
 class Solution {
     public:
         ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
@@ -47,8 +49,6 @@ class Solution {
             }
             rear->next = NULL;
             return head.next;
-
-
         }
 
 };
