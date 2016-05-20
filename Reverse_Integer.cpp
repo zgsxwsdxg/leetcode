@@ -11,5 +11,19 @@ class Solution {
             return static_cast<int>(r);
 
         }
+        int reverse2(int x) {
+            int r = 0;
+            while(x){
+                if(r > INT_MAX / 10 || r > INT_MIN / 10){
+                    r = 0;
+                    break;
+                }
+                r = r * 10 + x % 10;
+                x /= 10;
+
+            }
+            return r;
+
+        }
 
 };
