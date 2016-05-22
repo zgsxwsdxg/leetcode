@@ -17,7 +17,7 @@
 
 9 [Palindrome Number]() easy
 
-10 []
+10 
 
 11 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) the math reason
 
@@ -29,6 +29,12 @@
 
 15 
 
+16
+
+17
+
+18
+
 19 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 
 
 20 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) easy
@@ -36,6 +42,14 @@
 21 [Merge Two Sorted Lists](https://leetcode.com/problemset/algorithms/) easy
 
 22 
+
+23
+
+24
+
+25
+
+26 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) easy ok
 
 x [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) one more
 
