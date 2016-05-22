@@ -1,5 +1,5 @@
 # leetcode
-1 [Two Sumi](https://leetcode.com/problems/two-sum/) one more
+1 [Two Sumi](https://leetcode.com/problems/two-sum/) <color=#ff1122> one more </>
 
 2 [Add Two Numbers]() hash
 
