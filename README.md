@@ -51,5 +51,15 @@
 
 26 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) easy ok
 
+27 [Remove Element](https://leetcode.com/problems/remove-element/) same as 26 ,easy too
+
+28 
+
+29
+
+30
+
+31 [Next Permutation](Next Permutation) good question
+
 x [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) one more
 
