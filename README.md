@@ -30,6 +30,9 @@
 15 
 
 19 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 
+20 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) easy
+21 [Merge Two Sorted Lists](https://leetcode.com/problemset/algorithms/) easy
+22 
 
 x [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) one more
 
