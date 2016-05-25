@@ -72,7 +72,7 @@
 
 45 [Jump Game II](https://leetcode.com/problems/jump-game-ii/) good question if question change to {if reachable return step else return -1}
 
-50 [Pow(x, n)] ##one more
+50 [Pow(x, n)](https://leetcode.com/problems/powx-n/) ##one more
 
 55 [Jump Game]() maybe fell easy after solve 45
 
