@@ -70,6 +70,8 @@
 
 40 [Combination Sum II]() ok, same as 39
 
+45 [Jump Game II](https://leetcode.com/problems/jump-game-ii/) good question
+
 50 [50. Pow(x, n)] ##one more
 
 x [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ##one more
