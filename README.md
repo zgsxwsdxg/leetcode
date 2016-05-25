@@ -62,6 +62,8 @@
 
 31 [Next Permutation](Next Permutation) good question
 
+35 [Search Insert Position]() easy binary search
+
 38 [Count and Say]() easy but not so easy to implement
 
 x [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ##one more
