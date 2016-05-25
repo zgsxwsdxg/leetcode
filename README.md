@@ -70,9 +70,11 @@
 
 40 [Combination Sum II]() ok, same as 39
 
-45 [Jump Game II](https://leetcode.com/problems/jump-game-ii/) good question
+45 [Jump Game II](https://leetcode.com/problems/jump-game-ii/) good question if question change to {if reachable return step else return -1}
 
-50 [50. Pow(x, n)] ##one more
+50 [Pow(x, n)] ##one more
+
+55 [Jump Game]() maybe fell easy after solve 45
 
 x [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ##one more
 
