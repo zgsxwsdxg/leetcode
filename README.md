@@ -70,6 +70,7 @@
 
 40 [Combination Sum II]() ok, same as 39
 
+50 [50. Pow(x, n)] ##one more
 
 x [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ##one more
 
