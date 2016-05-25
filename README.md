@@ -68,6 +68,9 @@
 
 39 [Combination Sum]() ok, I have to commit that i remember it
 
+40 [Combination Sum II]() ok, same as 39
+
+
 x [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ##one more
 
 238 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) ##one more
