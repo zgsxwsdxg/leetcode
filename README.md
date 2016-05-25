@@ -72,6 +72,8 @@
 
 45 [Jump Game II](https://leetcode.com/problems/jump-game-ii/) good question if question change to {if reachable return step else return -1}
 
+48 [Rotate Image]() ok
+
 50 [Pow(x, n)](https://leetcode.com/problems/powx-n/) ##one more
 
 55 [Jump Game]() maybe fell easy after solve 45
