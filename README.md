@@ -76,6 +76,8 @@
 
 50 [Pow(x, n)](https://leetcode.com/problems/powx-n/) ##one more
 
+53 {Maximum Subarray}(https://leetcode.com/problems/maximum-subarray/) good question
+
 55 [Jump Game]() maybe fell easy after solve 45
 
 x [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ##one more
