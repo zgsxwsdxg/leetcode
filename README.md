@@ -82,6 +82,8 @@
 
 56 [Merge Intervals]() easy  with using stl
 
+58 [Length of Last Word]() very easy
+
 x [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ##one more
 
 238 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) ##one more
