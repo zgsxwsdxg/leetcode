@@ -66,7 +66,7 @@
 
 38 [Count and Say]() easy but not so easy to implement
 
-39 [Combination Sum]() ok, I have to commit that i remember it
+39 [Combination Sum]() ok, I have to commit that i remember it.combinations question also inclues 39,40,78,90
 
 40 [Combination Sum II]() ok, same as 39
 
@@ -93,6 +93,8 @@
 67 [Add Binary]() easy
 
 70 [Climbing Stairs]() ok, fibonacci sequence
+
+77 [Combinations](https://leetcode.com/problems/combinations/) ok. combinations question also inclues 39,40,78,90
 
 78 [Subsets]() ok, use the method 90 is also ok 
 
