@@ -94,6 +94,8 @@
 
 70 [Climbing Stairs]() ok, fibonacci sequence
 
+78 [Subsets]() ok, use the method 90 is also ok 
+
 90 [Subsets II](https://leetcode.com/problems/subsets-ii/) ok, same as 40 Combination Sum II
 
 94 [Binary Tree Inorder Traversal]() ok, just remember it
