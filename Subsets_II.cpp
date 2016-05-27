@@ -15,7 +15,7 @@ class Solution {
 				com(nums, i + 1);
 				int r = record.back();
 				while(i < nums.size() && nums[i] == r) ++i;
-				//while( nums[i] == r) ++i; 哨兵在，所以不用判断最后一个数
+				//while( nums[i] == r) ++i; 哨兵在，不用担心越界了
 				record.pop_back();
 			}
 		}
