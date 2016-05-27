@@ -98,6 +98,8 @@
 
 78 [Subsets]() ok, use the method 90 is also ok 
 
+88 [Merge Sorted Array]() very easy. change data from back
+
 90 [Subsets II](https://leetcode.com/problems/subsets-ii/) ok, same as 40 Combination Sum II
 
 94 [Binary Tree Inorder Traversal]() ok, just remember it
