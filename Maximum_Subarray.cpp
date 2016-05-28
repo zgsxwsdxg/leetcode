@@ -14,9 +14,7 @@ class Solution {
 
 using namespace std;
 template<typename T>
-struct pair3T
-{
-
+struct pair3T{
 	T posstart;
 	T posend;
 	T sum;
@@ -25,8 +23,7 @@ struct pair3T
 	friend std::ostream& operator<< <T>(std::ostream& out, const pair3T& p3);
 };
 typedef pair3T<int> pair3i;
-class MaximumSubarray
-{
+class MaximumSubarray{
 	public:
 		pair3i find(vector<int>& array){
 			return findMax(array, 0, array.size() - 1);
