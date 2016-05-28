@@ -104,6 +104,8 @@
 
 94 [Binary Tree Inorder Traversal]() ok, just remember it
 
+98 [Validate Binary Search Tree]() ok.
+
 100 [Same Tree]() very easy
 
 102 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) good solution use dfs
