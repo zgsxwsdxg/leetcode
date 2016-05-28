@@ -104,6 +104,8 @@
 
 94 [Binary Tree Inorder Traversal]() ok, just remember it
 
+100 [Same Tree]() very easy
+
 102 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) good solution use dfs
 
 x [Best Time to Buy and Sell Stock III](ttps://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ##one more
