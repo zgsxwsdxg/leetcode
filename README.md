@@ -98,6 +98,8 @@
 
 78 [Subsets]() ok, use the method 90 is also ok 
 
+82 [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) very easy
+
 83 [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) very easy
 
 88 [Merge Sorted Array]() very easy. change data from back
