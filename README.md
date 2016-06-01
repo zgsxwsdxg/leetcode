@@ -116,6 +116,8 @@
 
 102 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) good solution use dfs
 
+104 [Maximum Depth of Binary Tree]() very easy
+
 129 [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ##two more
 
 x [Best Time to Buy and Sell Stock III](ttps://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ##one more
