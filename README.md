@@ -124,6 +124,8 @@
 
 168 [Excel Sheet Column Title]() evey easy
 
+169 [Majority Element](https://leetcode.com/problems/majority-element/) ok, good question
+
 171 [Excel Sheet Column Number]() evey easy
 
 x [Best Time to Buy and Sell Stock III](ttps://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ##one more
