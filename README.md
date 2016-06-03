@@ -122,6 +122,7 @@
 
 111 [Minimum Depth of Binary Tree] (https://leetcode.com/problems/minimum-depth-of-binary-tree/) ok , good question
 
+112 [Path Sum](https://leetcode.com/problems/path-sum/) ok
 
 129 [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ##two more
 
