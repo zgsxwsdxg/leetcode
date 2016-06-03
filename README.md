@@ -106,6 +106,8 @@
 
 88 [Merge Sorted Array]() very easy. change data from back
 
+89 [Gray Code](https://leetocde.com/problems/gray-code/) ## one more ,格雷码
+
 90 [Subsets II](https://leetcode.com/problems/subsets-ii/) ok, same as 40 Combination Sum II
 
 92 [Reverse Linked List II]() ok,easy
