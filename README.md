@@ -104,6 +104,8 @@
 
 83 [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) very easy
 
+86 [Partition List]() ok, easy
+
 88 [Merge Sorted Array]() very easy. change data from back
 
 89 [Gray Code](https://leetocde.com/problems/gray-code/) ## one more ,格雷码
