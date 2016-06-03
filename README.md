@@ -116,6 +116,8 @@
 
 100 [Same Tree]() very easy
 
+101 [Symmetric Tree]() very easy
+
 102 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) good solution use dfs
 
 104 [Maximum Depth of Binary Tree]() very easy
