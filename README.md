@@ -120,6 +120,9 @@
 
 104 [Maximum Depth of Binary Tree]() very easy
 
+111 [Minimum Depth of Binary Tree] (https://leetcode.com/problems/minimum-depth-of-binary-tree/) ok , good question
+
+
 129 [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ##two more
 
 160 [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ##one more , good question
