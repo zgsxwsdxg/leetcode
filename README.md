@@ -124,6 +124,9 @@
 
 112 [Path Sum](https://leetcode.com/problems/path-sum/) ok
 
+113 [Path Sum II] (https://leetcode.com/problems/path-sum-ii/) ok ,same as 112
+
+
 129 [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ##two more
 
 160 [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ##one more , good question
