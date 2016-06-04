@@ -84,6 +84,8 @@
 
 58 [Length of Last Word]() very easy
 
+61 [Rotate List]() ok,easy
+
 62 [Unique Paths]() easy
 
 63 [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) ##one more
