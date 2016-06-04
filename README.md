@@ -88,6 +88,8 @@
 
 63 [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) ##one more
 
+64 [Minimun Paht Sum]() ok, easy
+
 66 [Plus One]() very easy
 
 67 [Add Binary]() easy
