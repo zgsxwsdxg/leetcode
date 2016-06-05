@@ -156,3 +156,5 @@ x [Best Time to Buy and Sell Stock III](ttps://leetcode.com/problems/best-time-t
 206 [Reverse Linked List ]() very easy
 
 238 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) ##one more
+
+292 [Nim Game](https://leetcode.com/problems/nim-game/) good question, do it again
