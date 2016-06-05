@@ -151,6 +151,8 @@
 
 171 [Excel Sheet Column Number]() evey easy
 
+191 [Number of 1 Bits]() ok, just remember it. bit , good quesiton
+
 198 [House Robber]() very easy
 
 199 [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) ok
