@@ -165,6 +165,8 @@ x [Best Time to Buy and Sell Stock III](ttps://leetcode.com/problems/best-time-t
 
 238 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) ##one more
 
+278 [First Bad Version]() very easy. binary search
+
 292 [Nim Game](https://leetcode.com/problems/nim-game/) good question, do it again
 
 297 [Perfect Squares](https://leetcode.com/problems/perfect-squares/) ##two more , good question , dp
