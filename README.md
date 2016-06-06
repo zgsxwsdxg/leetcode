@@ -167,6 +167,8 @@ x [Best Time to Buy and Sell Stock III](ttps://leetcode.com/problems/best-time-t
 
 263 [Ugly Number]() very easy
 
+264 [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) ##one more , good quesiton
+
 268 [Missing Number]() ok
 
 274 [H-Index](https://leetcode.com/problems/h-index/) good quesiton. more times
