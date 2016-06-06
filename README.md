@@ -26,7 +26,7 @@
 
 13 
 
-14 [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) merge sort 
+14 [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) merge sort , good quesiton
 
 15 
 
@@ -36,7 +36,7 @@
 
 18
 
-19 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 
+19 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  ok, good quesiton
 
 20 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) easy
 
