@@ -165,7 +165,9 @@ x [Best Time to Buy and Sell Stock III](ttps://leetcode.com/problems/best-time-t
 
 238 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) ##one more
 
-274 [H-Index](https://leetcode.com/problems/h-index/) good quesiton,do it again sometimes
+274 [H-Index](https://leetcode.com/problems/h-index/) good quesiton. more times
+
+275 [H-Index II](https://leetcode.com/problems/h-index-ii/) good quesiton.
 
 278 [First Bad Version]() very easy. binary search
 
