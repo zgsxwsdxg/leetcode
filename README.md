@@ -143,6 +143,8 @@
 
 129 [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ##two more
 
+153 [Find Minimum in Rotated Sorted Array]() ok
+
 160 [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ##one more , good question
 
 168 [Excel Sheet Column Title]() evey easy
