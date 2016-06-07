@@ -145,6 +145,8 @@
 
 153 [Find Minimum in Rotated Sorted Array]() ok
 
+154 [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) ##one more , good quesiton
+
 160 [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ##one more , good question
 
 168 [Excel Sheet Column Title]() evey easy
