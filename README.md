@@ -151,6 +151,8 @@
 
 171 [Excel Sheet Column Number]() evey easy
 
+172 [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) ok, good quesiton
+
 189 [Rotate Array]() very easy
 
 190 [Reverse Bits]() very easy
