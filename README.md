@@ -151,6 +151,8 @@
 
 171 [Excel Sheet Column Number]() evey easy
 
+189 [Rotate Array]() very easy
+
 190 [Reverse Bits]() very easy
 
 191 [Number of 1 Bits]() ok, just remember it. bit , good quesiton
