@@ -145,6 +145,8 @@
 
 141 [Linked List Cycle]( ) ok, easy
 
+142 [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) ok, good quesiton
+
 144 [Binary Tree Preorder Traversal]() ok
 
 147 [Insertion Sorted List]() ok , easy
