@@ -143,6 +143,8 @@
 
 129 [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ##two more
 
+147 [Insertion Sorted List]() ok , easy
+
 153 [Find Minimum in Rotated Sorted Array]() ok
 
 154 [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) ##one more , good quesiton
