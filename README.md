@@ -143,6 +143,8 @@
 
 129 [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ##two more
 
+144 [Binary Tree Preorder Traversal]() ok
+
 147 [Insertion Sorted List]() ok , easy
 
 153 [Find Minimum in Rotated Sorted Array]() ok
