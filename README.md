@@ -143,6 +143,8 @@
 
 129 [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ##two more
 
+141 [Linked List Cycle]( ) ok, easy
+
 144 [Binary Tree Preorder Traversal]() ok
 
 147 [Insertion Sorted List]() ok , easy
