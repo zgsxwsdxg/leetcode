@@ -140,6 +140,7 @@
 
 113 [Path Sum II] (https://leetcode.com/problems/path-sum-ii/) ok ,same as 112
 
+116 [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) ok, good question
 
 129 [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ##two more
 
