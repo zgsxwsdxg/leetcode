@@ -146,6 +146,8 @@
 
 118 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) ok ,easy
 
+119 [Pascal's Triangle II]() ok ,easy
+
 129 [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ##two more
 
 136 [Single Number](https://leetcode.com/problems/single-number/) ok, good quesiton
