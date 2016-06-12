@@ -1,5 +1,5 @@
 ![leetcode](./leetcode.png)
-## Important quesiton list in [./README-Important.md]
+## [Important quesiton](./README-Important.md)
 
 1 [Two Sum](https://leetcode.com/problems/two-sum/) <font color=red> ##one more,has do it twice </font>
 
