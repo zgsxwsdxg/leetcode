@@ -111,6 +111,8 @@
 
 83 [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) very easy
 
+###85 [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) no idea
+
 86 [Partition List]() ok, easy
 
 ###87 [Scramble String](https://leetcode.com/problems/scramble-string/) how to dp
