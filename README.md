@@ -1,6 +1,6 @@
 ![leetcode](./leetcode.png)
 
-1 [Two Sum](https://leetcode.com/problems/two-sum/) <font color=red> ##one more,has do it twice </font>
+####1 [Two Sum](https://leetcode.com/problems/two-sum/) <font color=red> ##one more,has do it twice </font>
 
 2 [Add Two Numbers]() hash
 
@@ -114,7 +114,7 @@
 
 88 [Merge Sorted Array]() very easy. change data from back
 
-89 [Gray Code](https://leetocde.com/problems/gray-code/) ## one more ,格雷码
+####89 [Gray Code](https://leetocde.com/problems/gray-code/) ## one more ,格雷码
 
 90 [Subsets II](https://leetcode.com/problems/subsets-ii/) ok, same as 40 Combination Sum II
 
