@@ -1,7 +1,7 @@
 ![leetcode](./leetcode.png)
 
 1 [Two Sum](https://leetcode.com/problems/two-sum/) <font color=red> ##one more,has do it twice </font>
-sdf
+
 2 [Add Two Numbers]() hash
 
 3 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) important question
