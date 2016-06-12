@@ -63,6 +63,8 @@
 
 31 [Next Permutation](Next Permutation) good question
 
+33 [Search in Rotated Sorted Array]() ok, good quesiton
+
 35 [Search Insert Position]() easy binary search
 
 38 [Count and Say]() easy but not so easy to implement
