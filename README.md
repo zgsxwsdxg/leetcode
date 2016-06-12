@@ -126,6 +126,8 @@
 
 98 [Validate Binary Search Tree]() ok.
 
+99 [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) no idea
+
 100 [Same Tree]() very easy
 
 101 [Symmetric Tree]() very easy
