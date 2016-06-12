@@ -4,7 +4,7 @@
 
 2 [Add Two Numbers]() hash
 
-3 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) important question
+##3 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) important question
 
 4 
 
@@ -126,7 +126,7 @@
 
 98 [Validate Binary Search Tree]() ok.
 
-###99 [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) no idea
+#99 [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) no idea
 
 100 [Same Tree]() very easy
 
