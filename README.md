@@ -122,6 +122,8 @@
 
 94 [Binary Tree Inorder Traversal]() ok, just remember it
 
+96 [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) ok
+
 98 [Validate Binary Search Tree]() ok.
 
 100 [Same Tree]() very easy
