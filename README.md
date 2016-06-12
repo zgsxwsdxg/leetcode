@@ -113,6 +113,8 @@
 
 86 [Partition List]() ok, easy
 
+###87 [Scramble String](https://leetcode.com/problems/scramble-string/) how to dp
+
 88 [Merge Sorted Array]() very easy. change data from back
 
 89 [Gray Code](https://leetocde.com/problems/gray-code/) ## one more ,格雷码
