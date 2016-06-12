@@ -111,6 +111,8 @@
 
 83 [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) very easy
 
+###84 [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) good qustion , like most water  no idea
+
 ###85 [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) no idea
 
 86 [Partition List]() ok, easy
