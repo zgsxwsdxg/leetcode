@@ -107,6 +107,8 @@
 
 78 [Subsets]() ok, use the method 90 is also ok 
 
+###79 [Word Search](https://leetcode.com/problems/word-search/) no idea
+
 80 [Remove Duplicates from Sorted Array II/](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) 
 
 ###81 [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) good quesiton
