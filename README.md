@@ -99,6 +99,8 @@
 
 67 [Add Binary]() easy
 
+69 [Sqrt(x)](https://leetcode.com/problems/sqrtx/) ok
+
 70 [Climbing Stairs]() ok, fibonacci sequence
 
 ###71 [Simplify Path](https://leetcode.com/problemset/algorithms/) string how to do
