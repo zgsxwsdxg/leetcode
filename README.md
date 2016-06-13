@@ -101,6 +101,8 @@
 
 70 [Climbing Stairs]() ok, fibonacci sequence
 
+###71 [Simplify Path](https://leetcode.com/problemset/algorithms/) string how to do
+
 72 [Edit Distance](https://leetcode.com/problems/edit-distance/) good quesiton
 
 73 [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) ok, good quesiton
