@@ -95,6 +95,8 @@
 
 64 [Minimun Paht Sum]() ok, easy
 
+###65 [Valid Number](https://leetcode.com/problems/valid-number/) string how to do?
+
 66 [Plus One]() very easy
 
 67 [Add Binary]() easy
@@ -103,7 +105,7 @@
 
 70 [Climbing Stairs]() ok, fibonacci sequence
 
-###71 [Simplify Path](https://leetcode.com/problemset/algorithms/) string how to do
+###71 [Simplify Path](https://leetcode.com/problemset/algorithms/) string how to do?
 
 72 [Edit Distance](https://leetcode.com/problems/edit-distance/) good quesiton
 
