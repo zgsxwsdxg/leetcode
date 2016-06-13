@@ -103,6 +103,8 @@
 
 74 [Search a 2D Matrix]() ok, easy , binary search
 
+75 [Sort Colors]() ok
+
 ###76 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) no idea
 
 77 [Combinations](https://leetcode.com/problems/combinations/) ok. combinations question also inclues 39,40,78,90

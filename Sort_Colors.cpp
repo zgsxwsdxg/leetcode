@@ -17,3 +17,24 @@ class Solution {
             }
         }
 };
+// m2
+class Solution {
+    public:
+        void sortColors(vector<int>& nums) {
+            int r = -1, w = -1, b = -1;
+            for(auto n : nums){
+                if(n == 2){
+                    nums[++b] = 2;
+                }
+                else if(n == 1){
+                    nums[++b] = 2;
+                    nums[++w] = 1;
+                }
+                else{
+                    nums[++b] = 2;
+                    nums[++w] = 1;
+                    nums[++r] = 0;
+                }
+            }
+        }
+};
