@@ -75,6 +75,8 @@
 
 45 [Jump Game II](https://leetcode.com/problems/jump-game-ii/) good question if question change to {if reachable return step else return -1}
 
+46 [Permutations](https://leetcode.com/problems/permutations/) ok
+
 48 [Rotate Image]() ok
 
 49 [Group Anagrams]() ok
