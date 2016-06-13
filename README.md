@@ -101,6 +101,8 @@
 
 70 [Climbing Stairs]() ok, fibonacci sequence
 
+73 [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) ok, good quesiton
+
 74 [Search a 2D Matrix]() ok, easy , binary search
 
 75 [Sort Colors]() ok
