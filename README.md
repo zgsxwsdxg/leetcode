@@ -11,7 +11,7 @@
 
 5  
 
-6 [ZigZag Conversion] ok,the best answer(https://leetcode.com/discuss/55208/if-you-are-confused-with-zigzag-pattern-come-and-see)
+6 [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) ok,the best answer(https://leetcode.com/discuss/55208/if-you-are-confused-with-zigzag-pattern-come-and-see)
 
 7 [Reverse Integer]() maybe out of range
 
