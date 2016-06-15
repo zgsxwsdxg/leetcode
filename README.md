@@ -43,7 +43,7 @@
 
 21 [Merge Two Sorted Lists](https://leetcode.com/problemset/algorithms/) easy
 
-22 
+###22 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) no idea , recuision  % no recursion
 
 23
 
