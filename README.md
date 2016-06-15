@@ -7,11 +7,11 @@
 
 3 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) important question
 
-###4[Median of Two Sorted Arrays] (https://leetcode.com/problems/median-of-two-sorted-arrays/) no idea
+###4 [Median of Two Sorted Arrays] (https://leetcode.com/problems/median-of-two-sorted-arrays/) no idea
 
 ###5 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) no idea
 
-6 [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) ok,the best answer(https://leetcode.com/discuss/55208/if-you-are-confused-with-zigzag-pattern-come-and-see)
+6 [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) ok,[the best answer](https://leetcode.com/discuss/55208/if-you-are-confused-with-zigzag-pattern-come-and-see)
 
 7 [Reverse Integer]() maybe out of range
 
