@@ -264,3 +264,5 @@ x [Best Time to Buy and Sell Stock III](ttps://leetcode.com/problems/best-time-t
 297 [Perfect Squares](https://leetcode.com/problems/perfect-squares/) ##two more , good question , dp
 
 299 [Bulls and Cows]() ok ,easy
+
+357 [Count Numbers with Unique Digits]() very easy
