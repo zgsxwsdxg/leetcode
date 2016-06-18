@@ -55,7 +55,7 @@
 
 27 [Remove Element](https://leetcode.com/problems/remove-element/) same as 26 ,easy too
 
-28 
+28 [Implement strStr()](https://leetcode.com/problems/implement-strstr/) brute is ok. KMP is best
 
 29
 
