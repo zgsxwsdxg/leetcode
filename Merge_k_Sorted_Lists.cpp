@@ -44,3 +44,32 @@ private:
         return head.next;
     }
 };
+
+
+struct cmp{
+    bool operator()(ListNode* n1, ListNode* n2){
+        return n1->val > n2->val;
+    }
+};
+class Solution {
+    public:
+        ListNode* mergeKLists(vector<ListNode*>& lists) {
+            if(lists.size() <= 0) return NULL;
+            ListNode head(0);
+            ListNode* rear = &head;
+            std::priority_queue<ListNode*, vector<ListNode*>, cmp> heap;// 小顶堆
+            for(int i = 0 ;i < lists.size(); ++i){
+                if(lists[i] != NULL)
+                    heap.push(lists[i]);
+            }
+            while(!heap.empty()){
+                ListNode* node = heap.top();
+                heap.pop();
+                if(NULL != node->next) heap.push(node->next);
+                rear->next = node;
+                rear = node;
+            }
+            rear->next = NULL;
+            return head.next;
+        }
+};
