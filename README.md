@@ -9,7 +9,7 @@
 
 ###4 [Median of Two Sorted Arrays] (https://leetcode.com/problems/median-of-two-sorted-arrays/) no idea
 
-###5 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) no idea
+###5 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) no idea, done
 
 6 [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) ok,[the best answer](https://leetcode.com/discuss/55208/if-you-are-confused-with-zigzag-pattern-come-and-see)
 
