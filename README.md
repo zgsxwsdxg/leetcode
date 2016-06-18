@@ -47,7 +47,7 @@
 
 23 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) ok, m1: merge sort done. m2:heap sort done
 
-24
+24 [Swap Nodes in Pairs]() ok ,easy
 
 25
 
