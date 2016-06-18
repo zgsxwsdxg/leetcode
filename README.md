@@ -79,6 +79,8 @@
 
 ###41 [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) no idea , glance the answer
 
+43 [Multiply Strings](https://leetcode.com/problems/multiply-strings/) ok
+
 ###44 [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) no idea
 
 45 [Jump Game II](https://leetcode.com/problems/jump-game-ii/) good question if question change to {if reachable return step else return -1}
