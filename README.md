@@ -63,6 +63,8 @@
 
 31 [Next Permutation](Next Permutation) good question
 
+###32 [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) no idea
+
 33 [Search in Rotated Sorted Array]() ok, good quesiton
 
 35 [Search Insert Position]() easy binary search
