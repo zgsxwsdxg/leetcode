@@ -45,7 +45,7 @@
 
 ###22 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) no idea , recuision  % no recursion
 
-23
+23 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) ok, m1: merge sort done. m2:heap sort
 
 24
 
