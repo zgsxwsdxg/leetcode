@@ -77,7 +77,7 @@
 
 40 [Combination Sum II]() ok, same as 39
 
-###41 [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) no idea , glance the answer
+###41 [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) no idea , glance the answer, done
 
 42 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) good question
 
