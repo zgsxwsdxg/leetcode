@@ -29,13 +29,13 @@
 
 14 [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) merge sort , good quesiton
 
-15 
+###15 [3Sum](https://leetcode.com/problems/3sum/) no idea
 
-16
+###16 [3Sum Closest](https://leetcode.com/problems/3sum-closest/) no idea
 
 17 [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) ok , do it in Recursion method
 
-18
+###18 [4Sum](https://leetcode.com/problems/4sum/) no idea
 
 19 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  ok, good quesiton
 
@@ -97,11 +97,17 @@
 
 50 [Pow(x, n)](https://leetcode.com/problems/powx-n/) ##one more
 
+###51 [N-Queens](https://leetcode.com/problems/n-queens/) do it
+
+###52 [N-Queens II](https://leetcode.com/problems/n-queens-ii/) do it
+
 53 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) good question , add the solution divide and conquer
 
 55 [Jump Game]() maybe fell easy after solve 45
 
 56 [Merge Intervals]() easy  with using stl
+
+###57 [Insert Interval](https://leetcode.com/problems/insert-interval/) no idea
 
 58 [Length of Last Word]() very easy
 
