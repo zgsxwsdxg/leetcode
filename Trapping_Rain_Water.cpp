@@ -21,3 +21,27 @@ class Solution {
 			return sum;
 		}
 };
+
+
+class Solution {
+	public:
+		int trap(vector<int>& height) {
+			int res = 0;
+			int left = 0, right = height.size() - 1;
+			int leftheight = 0;
+			int rightheight = 0;
+			while(left < right){
+				if(height[left] <= height[right]){
+					leftheight = max(leftheight, height[left]);
+					res += leftheight - height[left];
+					++left;
+				}
+				else{
+					rightheight = max(rightheight, height[right]);
+					res += rightheight - height[right];
+					--right;
+				}
+			}
+			return res;
+		}
+};
