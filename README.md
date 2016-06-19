@@ -9,7 +9,7 @@
 
 ###4 [Median of Two Sorted Arrays] (https://leetcode.com/problems/median-of-two-sorted-arrays/) no idea
 
-###5 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) no idea
+###5 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) no idea, done
 
 6 [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) ok,[the best answer](https://leetcode.com/discuss/55208/if-you-are-confused-with-zigzag-pattern-come-and-see)
 
@@ -45,9 +45,9 @@
 
 ###22 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) no idea , recuision  % no recursion
 
-23
+23 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) ok, m1: merge sort done. m2:heap sort done
 
-24
+24 [Swap Nodes in Pairs]() ok ,easy
 
 25
 
@@ -55,7 +55,7 @@
 
 27 [Remove Element](https://leetcode.com/problems/remove-element/) same as 26 ,easy too
 
-28 
+28 [Implement strStr()](https://leetcode.com/problems/implement-strstr/) brute is ok. KMP is best
 
 29
 
@@ -63,7 +63,11 @@
 
 31 [Next Permutation](Next Permutation) good question
 
+###32 [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) no idea
+
 33 [Search in Rotated Sorted Array]() ok, good quesiton
+
+34 [Search for a Range]() ok, easy
 
 35 [Search Insert Position]() easy binary search
 
@@ -76,6 +80,8 @@
 ###41 [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) no idea , glance the answer
 
 42 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) good question
+
+43 [Multiply Strings](https://leetcode.com/problems/multiply-strings/) ok
 
 ###44 [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) no idea
 
