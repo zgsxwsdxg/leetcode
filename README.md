@@ -288,6 +288,8 @@
 
 299 [Bulls and Cows]() ok ,easy
 
+338 [Counting Bits]() easy
+
 350 [Intersection of Two Arrays II]() very easy
 
 357 [Count Numbers with Unique Digits]() very easy
