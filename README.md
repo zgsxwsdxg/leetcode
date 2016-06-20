@@ -129,6 +129,8 @@
 
 67 [Add Binary]() easy
 
+###68 [Text Justification](https://leetcode.com/problems/text-justification/) no idea
+
 69 [Sqrt(x)](https://leetcode.com/problems/sqrtx/) ok
 
 70 [Climbing Stairs]() ok, fibonacci sequence
