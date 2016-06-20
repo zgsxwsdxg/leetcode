@@ -233,6 +233,8 @@
 
 154 [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) ##one more , good quesiton
 
+155 [Min Stack](https://leetcode.com/problems/min-stack/) ok .[Best answer](https://leetcode.com/discuss/21071/java-accepted-solution-using-one-stack)
+
 160 [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ##one more , good question
 
 168 [Excel Sheet Column Title]() evey easy
