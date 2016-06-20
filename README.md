@@ -103,6 +103,8 @@
 
 53 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) good question , add the solution divide and conquer
 
+###54 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) do it
+
 55 [Jump Game]() maybe fell easy after solve 45
 
 56 [Merge Intervals]() easy  with using stl
@@ -110,6 +112,8 @@
 ###57 [Insert Interval](https://leetcode.com/problems/insert-interval/) no idea
 
 58 [Length of Last Word]() very easy
+
+###60 [Permutation Sequence ](https://leetcode.com/problems/permutation-sequence/) do it
 
 61 [Rotate List]() ok,easy
 
