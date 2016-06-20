@@ -49,7 +49,7 @@
 
 24 [Swap Nodes in Pairs]() ok ,easy
 
-25
+###25 [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) do it
 
 26 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) easy ok
 
@@ -57,9 +57,9 @@
 
 28 [Implement strStr()](https://leetcode.com/problems/implement-strstr/) brute is ok. KMP is best
 
-29
+###29 [Divide Two Integers ](https://leetcode.com/problems/divide-two-integers/) no idea
 
-30
+###30 [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) no idea
 
 31 [Next Permutation](Next Permutation) good question
 
