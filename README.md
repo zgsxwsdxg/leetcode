@@ -71,6 +71,10 @@
 
 35 [Search Insert Position]() easy binary search
 
+###36 [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) no idea
+
+###37 [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) no idea
+
 38 [Count and Say]() easy but not so easy to implement
 
 39 [Combination Sum]() ok, I have to commit that i remember it.combinations question also inclues 39,40,78,90
