@@ -290,6 +290,8 @@
 
 338 [Counting Bits]() easy
 
+342 [Power of Four]() very easy
+
 343 [Integer Break]() very easy
 
 344 [Reverse String]() very very easy
