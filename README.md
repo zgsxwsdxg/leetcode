@@ -290,6 +290,8 @@
 
 338 [Counting Bits]() easy
 
+343 [Integer Break]() very easy
+
 344 [Reverse String]() very very easy
 
 345 [ Reverse Vowels of a String ]() very easy
