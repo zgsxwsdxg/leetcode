@@ -183,6 +183,8 @@
 
 92 [Reverse Linked List II]() ok,easy
 
+###93 [Restore IP Addresses ](https://leetcode.com/problems/restore-ip-addresses/) no idea
+
 94 [Binary Tree Inorder Traversal]() ok, just remember it
 
 ###95 [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) no idea
@@ -201,15 +203,31 @@
 
 102 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) good solution use dfs
 
+###103 [    Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) do it
+
 104 [Maximum Depth of Binary Tree]() very easy
 
+###105 [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) do it
+
+###106 [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) do it
+
+###107 [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) do it
+
 108 [Convert Sorted Array to Binary Search Tree]() easy
+
+###109 [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) no idea
+
+###110 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) do it
 
 111 [Minimum Depth of Binary Tree] (https://leetcode.com/problems/minimum-depth-of-binary-tree/) ok , good question
 
 112 [Path Sum](https://leetcode.com/problems/path-sum/) ok
 
 113 [Path Sum II] (https://leetcode.com/problems/path-sum-ii/) ok ,same as 112
+
+###114 [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) do it
+
+###115 [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) no idea
 
 116 [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) ok, good question
 
@@ -226,6 +244,16 @@
 122 [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) ok, good qustion
 
 123 [Best Time to Buy and Sell Stock III](ttps://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ##one more
+
+###124 [Binary Tree Maximum Path Sum ](https://leetcode.com/problems/binary-tree-maximum-path-sum/) no idea
+
+###125 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) no idea
+
+###126 [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) no idea
+
+###127 [Word Ladder](https://leetcode.com/problems/word-ladder/) no idea
+
+###128 [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) no idea
 
 129 [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ##two more
 
