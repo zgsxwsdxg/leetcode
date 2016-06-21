@@ -288,6 +288,8 @@
 
 299 [Bulls and Cows]() ok ,easy
 
+319 [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) good quesiton
+
 326 [Power of Three]() easy
 
 328 [Odd Even Linked List]( ) very easy
