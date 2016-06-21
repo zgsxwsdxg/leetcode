@@ -288,6 +288,8 @@
 
 299 [Bulls and Cows]() ok ,easy
 
+328 [Odd Even Linked List]( ) very easy
+
 338 [Counting Bits]() easy
 
 342 [Power of Four]() very easy
