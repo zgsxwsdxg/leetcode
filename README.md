@@ -290,6 +290,8 @@
 
 338 [Counting Bits]() easy
 
+349 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ok,two method
+
 350 [Intersection of Two Arrays II]() very easy
 
 357 [Count Numbers with Unique Digits]() very easy
