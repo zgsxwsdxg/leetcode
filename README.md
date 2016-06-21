@@ -288,6 +288,8 @@
 
 299 [Bulls and Cows]() ok ,easy
 
+318 [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) good quesiton
+
 319 [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) good quesiton
 
 326 [Power of Three]() easy
