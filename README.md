@@ -333,6 +333,8 @@
 
 169 [Majority Element](https://leetcode.com/problems/majority-element/) ok, good question
 
+170 [Two Sum III](./lock/170_Two_Sum_III) lock
+
 171 [Excel Sheet Column Number]() evey easy
 
 172 [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) ok, good quesiton
