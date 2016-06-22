@@ -1,4 +1,4 @@
->>Given a string, find the length of the longest substring T that contains at most 2 distinct characters.
+>Given a string, find the length of the longest substring T that contains at most 2 distinct characters.
 
 >>For example, Given s = “eceba”,
 
