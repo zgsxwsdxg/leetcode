@@ -321,6 +321,14 @@
 
 163 [Missing Ranges](./lock/163_Missing_Ranges.md) lock, easy
 
+###164 [Maximum Gap](https://leetcode.com/problems/maximum-gap/) no idea
+
+###165 [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) no idea
+
+###166 [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) no idea
+
+167 [Two Sum II - Input array is sorted]()
+
 168 [Excel Sheet Column Title]() evey easy
 
 169 [Majority Element](https://leetcode.com/problems/majority-element/) ok, good question
