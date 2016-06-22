@@ -311,7 +311,7 @@
 
 156 [Binary Tree Upside Down ](./lock/156_Binary_Tree_Upside_Down.png) lock , good question
 
-159 [Longest Substring with At Most Two Distinct Characters ](./lock/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.md_) lock, do it
+159 [Longest Substring with At Most Two Distinct Characters ](./lock/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.md) lock, do it
 
 160 [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ##one more , good question
 
