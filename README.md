@@ -339,6 +339,18 @@
 
 172 [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) ok, good quesiton
 
+###173 [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) do it
+
+###174 [Dungeen Game](https://leetcode.com/problems/dungeon-game/) no idea
+
+###179 [Largest Number ](https://leetcode.com/problems/largest-number/) no idea
+
+###186 [Reverse Words in a String II]() lock
+
+###187 [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) no idea
+
+###188 [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/ ) no idea
+
 189 [Rotate Array]() very easy
 
 190 [Reverse Bits]() very easy
@@ -349,6 +361,9 @@
 
 199 [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) ok
 
+###200 [Number of Islands ](https://leetcode.com/problems/number-of-islands/) no idea
+
+201 [Bitwise AND of Numbers Range](https://leetcode.com/problemset/algorithms/) o
 
 206 [Reverse Linked List ]() very easy
 
