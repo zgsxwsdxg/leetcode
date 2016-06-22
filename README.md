@@ -309,7 +309,7 @@
 
 155 [Min Stack](https://leetcode.com/problems/min-stack/) ok .[Best answer](https://leetcode.com/discuss/21071/java-accepted-solution-using-one-stack)
 
-###156 [Binary Tree Upside Down ]
+###156 [Binary Tree Upside Down ](./lock/156_Binary_Tree_Upside_Down.md) lock
 
 160 [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ##one more , good question
 
