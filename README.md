@@ -317,6 +317,10 @@
 
 161 [One Edit Distance](./lock/161_One_Edit_Distance.md) lock, ok.
 
+###162 [Find Peak Element](https://leetcode.com/problems/find-peak-element/) do it
+
+163 [Missing Ranges](./lock/163_Missing_Ranges.md) lock
+
 168 [Excel Sheet Column Title]() evey easy
 
 169 [Majority Element](https://leetcode.com/problems/majority-element/) ok, good question
