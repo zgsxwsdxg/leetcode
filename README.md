@@ -257,7 +257,21 @@
 
 129 [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ##two more
 
+###130 [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) no idea
+
+###131 [Palindrome Partitioning ](https://leetcode.com/problems/palindrome-partitioning/) no idea
+
+###132 [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) no idea
+
+###133 [Clone Graph](https://leetcode.com/problems/clone-graph/) no idea
+
+###134[Gas Station](https://leetcode.com/problems/gas-station/) do it
+
+###135 [Candy](https://leetcode.com/problems/candy/) no idea
+
 136 [Single Number](https://leetcode.com/problems/single-number/) ok, good quesiton
+
+137 [Single Number II](https://leetcode.com/problems/single-number-ii/) ok , good question
 
 141 [Linked List Cycle]( ) ok, easy
 
