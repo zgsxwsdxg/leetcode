@@ -117,7 +117,7 @@
 
 58 [Length of Last Word]() very easy
 
-###60 [Permutation Sequence ](https://leetcode.com/problems/permutation-sequence/) do it
+60 [Permutation Sequence ](https://leetcode.com/problems/permutation-sequence/) ok, good question
 
 61 [Rotate List]() ok,easy
 
