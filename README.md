@@ -315,7 +315,7 @@
 
 160 [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ##one more , good question
 
-161 [One Edit Distance](./lock/161_One_Edit_Distance.md) lock
+161 [One Edit Distance](./lock/161_One_Edit_Distance.md) lock, ok.
 
 168 [Excel Sheet Column Title]() evey easy
 
