@@ -319,7 +319,7 @@
 
 ###162 [Find Peak Element](https://leetcode.com/problems/find-peak-element/) do it
 
-163 [Missing Ranges](./lock/163_Missing_Ranges.md) lock
+163 [Missing Ranges](./lock/163_Missing_Ranges.md) lock, easy
 
 168 [Excel Sheet Column Title]() evey easy
 
