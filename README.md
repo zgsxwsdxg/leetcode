@@ -363,7 +363,11 @@
 
 ###200 [Number of Islands ](https://leetcode.com/problems/number-of-islands/) no idea
 
-201 [Bitwise AND of Numbers Range](https://leetcode.com/problemset/algorithms/) o
+201 [Bitwise AND of Numbers Range](https://leetcode.com/problemset/algorithms/) #one more, good question
+
+###202 [Happy Number](https://leetcode.com/problems/happy-number/) #one moree
+
+###203 [Remove Linked List Elements]() very easy
 
 206 [Reverse Linked List ]() very easy
 
