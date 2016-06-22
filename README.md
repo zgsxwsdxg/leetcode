@@ -327,7 +327,7 @@
 
 ###166 [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) no idea
 
-167 [Two Sum II - Input array is sorted]()
+167 [Two Sum II - Input array is sorted](./lock/167_Two_Sum_II.md) 
 
 168 [Excel Sheet Column Title]() evey easy
 
