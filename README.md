@@ -333,7 +333,7 @@
 
 169 [Majority Element](https://leetcode.com/problems/majority-element/) ok, good question
 
-170 [Two Sum III](./lock/170_Two_Sum_III) lock
+170 [Two Sum III](./lock/170_Two_Sum_III.md) lock, ok
 
 171 [Excel Sheet Column Number]() evey easy
 
