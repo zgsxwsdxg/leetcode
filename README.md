@@ -369,6 +369,10 @@
 
 ###203 [Remove Linked List Elements]() very easy
 
+###204 [Count Primes](https://leetcode.com/problems/count-primes/) no idea
+
+###205 [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) do it
+
 206 [Reverse Linked List ]() very easy
 
 216 [Combination Sum III]() ok, easy
