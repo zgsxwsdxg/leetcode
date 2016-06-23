@@ -49,7 +49,7 @@
 
 24 [Swap Nodes in Pairs]() ok ,easy
 
-###25 [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) do it
+25 [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) ok
 
 26 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) easy ok
 
