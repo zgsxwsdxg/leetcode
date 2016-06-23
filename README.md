@@ -217,7 +217,7 @@
 
 ###109 [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) no idea
 
-###110 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) do it
+###110 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) recursion , not the best
 
 111 [Minimum Depth of Binary Tree] (https://leetcode.com/problems/minimum-depth-of-binary-tree/) ok , good question
 
