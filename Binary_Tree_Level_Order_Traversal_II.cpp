@@ -41,3 +41,25 @@ class Solution {
             return res;
         }
 };
+
+class Solution {
+    public:
+        vector<vector<int>> levelOrderBottom(TreeNode* root) {
+            vector<vector<int>> res;
+            if(root == NULL) return res;
+            gen(res, root, 0);
+            std::reverse(res.begin(), res.end());
+            return res;
+        }
+        void gen(vector<vector<int>>& res, TreeNode* root,int level){
+            if(root == NULL) return;
+            if(res.size() < level + 1){
+                vector<int> v(1,root->val);
+                res.push_back(v);
+            }else{
+                res[level].push_back(root->val);
+            }
+            gen(res, root->left, level + 1);
+            gen(res, root->right, level + 1);
+        }
+};
