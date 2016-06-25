@@ -65,3 +65,28 @@ class Solution {
 	private:
 		vector<vector<int>> res_;
 };
+
+// m3
+class Solution {
+	public:
+		vector<vector<int>> levelOrder(TreeNode* root) {
+			vector<vector<int>> res;
+			if(root == NULL) return res;
+			queue<TreeNode*> que;
+			TreeNode* p = root;
+			que.push(p);
+			while(!que.empty()){
+				size_t si = que.size();
+				vector<int> record(si);
+				for(int i = 0; i < si; ++i){
+					TreeNode* q = que.front();
+					que.pop();
+					if(q->left) que.push(q->left);
+					if(q->right) que.push(q->right);
+					record[i] = q->val;
+				}
+				res.emplace_back(record);
+			}
+			return res;
+		}
+};
