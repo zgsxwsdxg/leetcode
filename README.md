@@ -203,7 +203,7 @@
 
 102 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) good solution use dfs
 
-###103 [    Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) do it
+103 [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  good question , one more
 
 104 [Maximum Depth of Binary Tree]() very easy
 
