@@ -65,7 +65,7 @@
 
 ###32 [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) no idea
 
-33 [Search in Rotated Sorted Array]() ok, good quesiton
+33 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) one more, good quesiton  [good solution](https://leetcode.com/discuss/11701/concise-o-log-n-binary-search-solution)
 
 34 [Search for a Range]() ok, easy
 
