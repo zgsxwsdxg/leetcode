@@ -371,7 +371,7 @@
 
 ###204 [Count Primes](https://leetcode.com/problems/count-primes/) no idea
 
-###205 [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) do it ##one more
+###205 [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  ##one more, done, remember it 
 
 206 [Reverse Linked List ]() very easy
 
