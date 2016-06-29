@@ -295,7 +295,7 @@
 
 ###148[Sort List](https://leetcode.com/problems/sort-list/) no idea
 
-###149[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)  no idea, done
+###149[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)  good question, done
 
 ###150[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) no idea
 
