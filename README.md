@@ -273,7 +273,7 @@
 
 137 [Single Number II](https://leetcode.com/problems/single-number-ii/) ok , good question
 
-###138[Copy List with Random Pointer ](https://leetcode.com/problems/copy-list-with-random-pointer/) know it, do it
+###138[Copy List with Random Pointer ](https://leetcode.com/problems/copy-list-with-random-pointer/) know it, ,glance , done
 
 ###139[ Word Break](https://leetcode.com/problems/word-break/) no idea
 
