@@ -265,7 +265,7 @@
 
 ###133 [Clone Graph](https://leetcode.com/problems/clone-graph/) no idea
 
-###134[Gas Station](https://leetcode.com/problems/gas-station/) do it
+###134[Gas Station](https://leetcode.com/problems/gas-station/) no idea, glance it. ## two more;
 
 ###135 [Candy](https://leetcode.com/problems/candy/) no idea
 
