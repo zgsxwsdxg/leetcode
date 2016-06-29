@@ -343,7 +343,7 @@
 
 ###174 [Dungeen Game](https://leetcode.com/problems/dungeon-game/) no idea
 
-###179 [Largest Number ](https://leetcode.com/problems/largest-number/) no idea
+###179 [Largest Number ](https://leetcode.com/problems/largest-number/) no idea, glance it
 
 ###186 [Reverse Words in a String II]() lock
 
