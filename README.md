@@ -287,7 +287,7 @@
 
 144 [Binary Tree Preorder Traversal]() ok
 
-###145[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) do it , remember it
+###145[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) do it , remember it, ok
 
 ###146[LRU Cache](https://leetcode.com/problems/lru-cache/) no idea
 
