@@ -361,7 +361,7 @@
 
 199 [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) ok
 
-###200 [Number of Islands ](https://leetcode.com/problems/number-of-islands/) no idea
+200 [Number of Islands ](https://leetcode.com/problems/number-of-islands/) #one more ,dfs, bfs
 
 201 [Bitwise AND of Numbers Range](https://leetcode.com/problemset/algorithms/) #one more, good question
 
