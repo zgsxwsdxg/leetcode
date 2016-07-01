@@ -422,3 +422,5 @@
 350 [Intersection of Two Arrays II]() very easy
 
 357 [Count Numbers with Unique Digits]() very easy
+
+367 [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) m1: binary search. m2 : 1+3+5+....+(2n + 1))
