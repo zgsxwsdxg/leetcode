@@ -383,7 +383,7 @@
 
 263 [Ugly Number]() very easy
 
-264 [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) ##one more , good quesiton
+264 [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)  good quesiton
 
 268 [Missing Number]() ok
 
