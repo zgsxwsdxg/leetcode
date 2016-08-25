@@ -417,6 +417,8 @@
 
 345 [ Reverse Vowels of a String ]() very easy
 
+347 [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) one more
+
 349 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ok,two method
 
 350 [Intersection of Two Arrays II]() very easy
