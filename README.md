@@ -407,7 +407,9 @@
 
 328 [Odd Even Linked List]( ) very easy
 
-##337 [House Robber III](https://leetcode.com/problems/house-robber-iii/) two more same -offer 39
+###334 [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)  good quesiton, two more
+
+###337 [House Robber III](https://leetcode.com/problems/house-robber-iii/) two more same -offer 39
 
 338 [Counting Bits]() easy
 
